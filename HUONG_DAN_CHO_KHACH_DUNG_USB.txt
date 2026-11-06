@@ -1,0 +1,41 @@
+﻿========================================================================
+   BẢN PORTABLE CHẠY TRỰC TIẾP TỪ USB - LC_SOFT PRO v3.5
+   Tác quyền: Lê Cảnh PC (Hotline / Zalo: 0979.298.897)
+========================================================================
+
+HƯỚNG DẪN DÀNH CHO THỢ KỸ THUẬT & KHÁCH HÀNG DÙNG USB:
+
+1. CÁCH SỬ DỤNG TRÊN USB:
+   - Cắm USB vào máy tính.
+   - Giải nén toàn bộ file trong "PCToolkitPro_Portable_USB.zip" vào USB của bạn.
+   - Vào thư mục vừa giải nén, nhấp đúp chuột vào file:
+     👉 "PCToolkitPro.exe" để mở giao diện phần mềm.
+   - Hoặc chạy nhanh các file cứu hộ trực tiếp:
+     + "0_CuuHo_MayDoGiat_1Click.bat" : Cứu hộ nhanh máy đơ lag tức thì.
+     + "1_DonDep_ToiUu_SuaLoi_Win.bat" : Dọn dẹp rác & sửa lỗi Windows chuyên sâu.
+     + "2_Scan_CaiDat_Backup_Driver.bat": Quét & tự động cài đặt driver chuẩn.
+     + "3_ChongDoGiat_GiamLag_TucThi.bat": Khóa xung CPU, xả RAM Standby.
+     + "4_ToiUu_Xeon_CayGiaLap_DaTab.bat": Tối ưu chuyên sâu cho máy cày giả lập & đa tab Web.
+
+2. CƠ CHẾ BẢO VỆ CHỐNG SAO CHÉP USB (BẢN QUYỀN THỢ):
+   - Bản quyền trên USB được khóa chặt theo MÃ SERIAL PHẦN CỨNG của chip nhớ USB.
+   - Cắm USB vào bất kỳ máy tính nào đều nhận đủ bản quyền vĩnh viễn!
+   - Tuyệt đối chống người khác sao chép: Nếu ai đó copy thư mục phần mềm sang máy tính hoặc sang USB khác, phần mềm sẽ tự động phát hiện và khóa lại ngay.
+
+3. TRẢI NGHIỆM DÙNG THỬ 7 NGÀY TRÊN USB:
+   - Nếu bạn đang dùng thử, mã USB của bạn sẽ được kích hoạt trải nghiệm 7 ngày.
+   - Mở phần mềm, nhấp nút "DÙNG THỬ" trên thanh tiêu đề để xem số ngày dùng thử còn lại.
+   - Sau 7 ngày, phần mềm tự khóa để bảo vệ bản quyền tác giả.
+   - Để mở khóa vĩnh viễn, bạn liên hệ Lê Cảnh PC (0979.298.897) để cấp bản quyền USB Dongle Thợ trọn đời.
+
+4. CÁC CÔNG CỤ TÍCH HỢP TRÊN USB:
+   - "PCToolkitPro.exe" : Giao diện đồ họa Pro trực quan đầy đủ 6 tab chức năng.
+   - "0_CuuHo_MayDoGiat_1Click.bat" : Cứu hộ nhanh máy đơ lag không cần mở menu.
+   - "1_DonDep_ToiUu_SuaLoi_Win.bat" : Dọn dẹp rác & sửa lỗi Windows chuyên sâu.
+   - "2_Scan_CaiDat_Backup_Driver.bat": Quét & tự động tải cài driver.
+   - "3_ChongDoGiat_GiamLag_TucThi.bat": Khóa xung CPU, giải phóng RAM.
+   - "4_ToiUu_Xeon_CayGiaLap_DaTab.bat": Tối ưu chuyên sâu cho máy cày giả lập & đa tab Web.
+
+========================================================================
+Hotline / Zalo hỗ trợ kỹ thuật: 0979.298.897 (Lê Cảnh PC)
+========================================================================
